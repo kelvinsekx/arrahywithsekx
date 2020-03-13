@@ -11,3 +11,12 @@
 .note{
     border: 1px dotted red;
 }
+footer{
+    margin-top: 2rem;
+    background-color: #000;
+    color: beige;
+}
+.love{
+    color: red;
+    font-weight: bolder;
+}
