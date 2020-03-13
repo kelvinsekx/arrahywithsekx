@@ -1,0 +1,13 @@
+.important{
+    background-color: aqua;
+    border-left: 4px solid #ff9028;
+    padding: 0.4em 2em 0 4em;
+}
+.danger{
+    background-color: rgb(199, 223, 223);
+    border-left: 4px solid red;
+    padding: 0.4em 2em 0 4em;
+}
+.note{
+    border: 1px dotted red;
+}
